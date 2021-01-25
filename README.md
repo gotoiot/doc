@@ -1,6 +1,6 @@
 # Hello IoT Documentation
 
-[Leer en español](./README.ES.md)
+[Leer en español](./README-ES.md)
 
 The purpose of this repository is to centralize in a unique place all the documentation for the projects within the [Hello IoT](https://github.com/hello-iot) organization.
 
