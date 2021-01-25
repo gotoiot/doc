@@ -1,6 +1,6 @@
 # Hello IoT Documentación
 
-[Read in English](README.md)
+[Read in English](./README.md)
 
 El propósito de este repositorio es centralizar en un único lugar toda la documentación correspondiente a los proyectos dentro de la organización [Hello IoT](https://github.com/hello-iot). 
 
@@ -11,3 +11,5 @@ Cada uno de los proyectos tiene su propio README con información breve sobre el
 # Licencia
 
 Todo el material de documentación es licenciado bajo la licencia [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Información sobre el uso del material en [este link](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
+
+![footer](./helloiot-footer.png)
