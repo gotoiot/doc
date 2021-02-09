@@ -1,15 +1,15 @@
-# Hello IoT Documentation
+# Hello IoT Documentación
 
-[Leer en español](./README-ES.md)
+[Read in English](./README-EN.md)
 
-The purpose of this repository is to centralize in a unique place all the documentation for the projects within the [Hello IoT](https://github.com/hello-iot) organization.
+El propósito de este repositorio es centralizar en un único lugar toda la documentación correspondiente a los proyectos dentro de la organización [Goto IoT](https://github.com/gotoiot). 
 
-To make this documentation easy to navigate and understand, we created the [Central Wiki](https://github.com/hello-iot/documentation/wiki), which is the unique place necessary to explore for use the projects.
+Para que el uso de la documentación sea fácil de navegar y comprender, creamos la [Wiki central](https://github.com/gotoiot/doc/wiki), que es el único lugar que se debe explorar para utilizar los proyectos.
 
-Each project has its own README with brief information about the context, dependencies installation and execution; but in the [Central Wiki](https://github.com/hello-iot/documentation/wiki) there is more comprehensive and organized information, so we strongly recommend using this medium as an information method.
+Cada uno de los proyectos tiene su propio README con información breve sobre el contexto, instalación de dependencias y ejecución; pero en la [Wiki central](https://github.com/gotoiot/doc/wiki) se encuentra información más abarcativa y organizada, por lo que recomendamos fuertemente utilizar ese medio como método de información.
 
-# License
+# Licencia
 
-All documentation material is licensed under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license. Read about usage of this documentation at [this link](https://creativecommons.org/licenses/by-sa/4.0/deed).
+Todo el material de documentación es licenciado bajo la licencia [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Leer sobre el uso del material en [este link](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
 
-![footer](./helloiot-footer.png)
+![footer](./gotoiot-footer.png)
